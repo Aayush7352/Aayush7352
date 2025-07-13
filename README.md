@@ -52,7 +52,7 @@
 </p>
 
 ### 📊 Data Science & AI
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -62,14 +62,14 @@
 </p>
 
 ### 🧠 Distributed & Infra
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=black"/>
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -84,8 +84,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🧾 **Invoice Extraction System** | India’s top-tier automated invoice processor | React, Python, Textract |
-| 🎉 **FestiveHub** | College event manager – free for all institutions | MongoDB, Node.js, React |
-| 🌍 **aayushsinghdixit.com** | Personal portfolio + OS AI showcase | Next.js, TailwindCSS |
+| 🎉 **FestiveHub** | College event management App | Android Studio,Java,XML,phpmyadmin, |
+| 🌍 **aayushsinghdixit.com** | Personal portfolio | React.js, Node.js TailwindCSS |
 | 🔐 **Stock Market Predictor** | AI model using sentiment & ML patterns | Pandas, Scikit-learn, Twitter API |
 
 ---
