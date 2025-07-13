@@ -9,7 +9,7 @@
 ## 🧠 About Me
 - 💡 Software Engineer who builds like an architect — with systems thinking, not shortcuts.
 - 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
-- ⚙️ Developed 18+ production-grade projects at Safal Softcom (2023–2024)
+- ⚙️ Developed 5+ production-grade projects at Safal Softcom (2024)
 - 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple
 - 🛡️ Guided by **faith, rage, & vision** — working 24x7 until xAI/SpaceX hires me
 
@@ -127,14 +127,14 @@
 
 ## 🧨 Motto
 
-> “If others are dreaming of a seat, I’m designing the rocket.”
+> If others are dreaming of a seat, I’m designing the rocket.
 
-> “I don't just write code. I write revolutions.”
+> I don't just write code. I write revolutions.
 
 ---
 ### 🧭 My Engineering Philosophy
 
-- "Code must be clean before it is clever."
-- "Systems should be designed to fail safely, scale easily, and recover instantly."
-- "I build for tomorrow, not just for the demo."
-- "Like Tesla, I don't dream of the future — I engineer it."
+- Code must be clean before it is clever.
+- Systems should be designed to fail safely, scale easily, and recover instantly.
+- I build for tomorrow, not just for the demo.
+- Like Tesla, I don't dream of the future — I engineer it.
