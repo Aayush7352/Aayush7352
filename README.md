@@ -106,7 +106,7 @@
 
 ## 🚀 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aayush7352?theme=dark&font=Fira+Code)](https://leetcode.com/aayush7352/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code)](https://leetcode.com/aayush7352/)
 
 ---
 
