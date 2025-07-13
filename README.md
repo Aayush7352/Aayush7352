@@ -92,13 +92,13 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush7352&show_icons=true&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aayush7352&theme=tokyonight" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight" width="40%"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---
