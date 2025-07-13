@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsinghdixit&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
