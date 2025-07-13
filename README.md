@@ -7,8 +7,7 @@
 </p>
 
 ## 🧠 About Me
-
-- 👨‍💻 Software Engineer who writes like a system designer, not a script kiddie
+- 💡 Software Engineer who builds like an architect — with systems thinking, not shortcuts.
 - 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
 - ⚙️ Developed 18+ production-grade projects at Safal Softcom (2023–2024)
 - 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple
