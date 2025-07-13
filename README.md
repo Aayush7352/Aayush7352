@@ -144,4 +144,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
+## 📊 GitHub 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/Aayush7352.svg" alt="3D Contributions" />
+</p>
 
