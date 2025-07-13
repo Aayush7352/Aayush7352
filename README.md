@@ -1,87 +1,135 @@
-<h1 align="center">🚀 Aayush Dixit — The Architect of Disruption</h1>
+<h1 align="center">🚀 Aayush Dixit — Architect of Disruptive Intelligence</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Engineer+%7C+AI+Innovator;Built+India's+Top+Invoice+System;Ex-TCS+%7C+SpaceX+xAI+Dreamer;Building+World's+Most+Efficient+OS+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=⚙️+Full+Stack+Engineer+%7C+AI+Optimist;🚀+System+Builder+%7C+SpaceX+xAI+Dreamer;🔥+Operating+System+%26+AI+Infra+in+Progress;💡+17+Days+%3D+World's+Top+1%25+Dev" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔥 Hardcore Full Stack Engineer | System Designer | AI-First Thinker  
-- 🧠 Built 18+ production systems at Safal Softcom  
-- 💡 Vision: Outperform Google, Microsoft, and Unreal Engine with my own OS & AI engine  
-- 🇮🇳 From India | 🛰️ Heading toward xAI, SpaceX & Tesla  
-- 🛡️ Faith in Radha Rani | Work till last breath | Live to disrupt  
+- 👨‍💻 Software Engineer who writes like a system designer, not a script kiddie
+- 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
+- ⚙️ Developed 18+ production-grade projects at Safal Softcom (2023–2024)
+- 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple
+- 🛡️ Guided by **faith, rage, & vision** — working 24x7 until xAI/SpaceX hires me
 
 ---
 
-## ⚙️ Technologies I Dominate Like a War Machine
+## ⚙️ Tech Stack Mastery
 
+### 🔥 Core Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### 🌐 Web & App Development
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+### 📊 Data Science & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### 🧠 Distributed & Infra
+<p align="center">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=black"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 My Highlights
+## 🧠 Featured Projects
 
-- 🧾 India's best Invoice Extraction System (React + Python + AWS Textract)
-- 🚀 Built a Maze Solver on Arduino Nano — competition winner
-- 📈 Stock Market Predictor using ML & Sentiment Analysis
-- 🧠 Building an OS that will rival macOS, Windows & Ubuntu
-- ⚙️ Operating Systems, ARM64, Kernel-Level Design, x86 Architectures
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧾 **Invoice Extraction System** | India’s top-tier automated invoice processor | React, Python, Textract |
+| 🎉 **FestiveHub** | College event manager – free for all institutions | MongoDB, Node.js, React |
+| 🌍 **aayushsinghdixit.com** | Personal portfolio + OS AI showcase | Next.js, TailwindCSS |
+| 🔐 **Stock Market Predictor** | AI model using sentiment & ML patterns | Pandas, Scikit-learn, Twitter API |
 
 ---
 
-## 🌍 Connect With Me
+## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://linkedin.com/in/aayushsinghdixit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush Dixit-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/aayushsinghdixit" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://aayushsinghdixit.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush7352&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aayush7352&theme=tokyonight" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 ---
 
-## 💬 Quote I Live By
+## 🚀 LeetCode
 
-> **“If they say it's impossible — do it twice.”**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aayush7352?theme=dark&font=Fira+Code)](https://leetcode.com/aayush7352/)
 
 ---
 
-### 👑 Let the world watch.  
-**I’m Aayush. I don’t code to survive. I code to rewrite what’s possible.**
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aayushsinghdixit">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/aayushsinghdixit">
+    <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://aayushsinghdixit.com">
+    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser"/>
+  </a>
+</p>
+
+---
+
+## 🧨 Motto
+
+> “If others are dreaming of a seat, I’m designing the rocket.”
+
+> “I don't just write code. I write revolutions.”
+
+---
