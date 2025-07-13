@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/Aayush7352">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Developer;☁️+Cloud+Engineer;⚙️+DevOps+Specialist;🧠+Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FFA500
+&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Developer;☁️+Cloud+Engineer;⚙️+DevOps+Specialist;🧠+Machine+Learning+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
