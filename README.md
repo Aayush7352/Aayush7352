@@ -7,6 +7,7 @@
 </p>
 
 ## 🧠 About Me
+- 🎓 A Computer Science graduate from Gujarat Technological University, with a strong foundation in software engineering, system design, and real-world problem solving.
 - 💡 Software Engineer who builds like an architect — with systems thinking, not shortcuts.
 - 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
 - ⚙️ Developed 5+ production-grade projects at Safal Softcom (2024)
