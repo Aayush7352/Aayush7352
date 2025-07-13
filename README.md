@@ -138,3 +138,8 @@
 - Systems should be designed to fail safely, scale easily, and recover instantly.
 - I build for tomorrow, not just for the demo.
 - Like Tesla, I don't dream of the future — I engineer it.
+  
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
