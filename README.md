@@ -132,3 +132,9 @@
 > “I don't just write code. I write revolutions.”
 
 ---
+### 🧭 My Engineering Philosophy
+
+- "Code must be clean before it is clever."
+- "Systems should be designed to fail safely, scale easily, and recover instantly."
+- "I build for tomorrow, not just for the demo."
+- "Like Tesla, I don't dream of the future — I engineer it."
