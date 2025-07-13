@@ -144,3 +144,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+---
+<h2 align="Left">📊 GitHub 3D Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/main/profile-3d-contrib/profile-season-animate.svg" />
+</p>
