@@ -84,7 +84,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🧾 **Invoice Extraction System** | India’s top-tier automated invoice processor | React, Python, Textract |
-| 🎉 **FestiveHub** | College event management App | Android Studio,Java,XML,phpmyadmin, |
+| 🎉 **FestiveHub** | College event management App | Android Studio,Java,XML,phpmyadmin,MySQL,Razorpay API |
 | 🌍 **aayushsinghdixit.com** | Personal portfolio | React.js, Node.js TailwindCSS |
 | 🔐 **Stock Market Predictor** | AI model using sentiment & ML patterns | Pandas, Scikit-learn, Twitter API |
 
