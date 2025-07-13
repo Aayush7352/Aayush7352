@@ -67,8 +67,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushsinghdixit&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsinghdixit&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&theme=radical" width="45%" />
 </p>
 
 <p align="center">
