@@ -111,7 +111,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/aayushsinghdixit">
     <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
   </a>
