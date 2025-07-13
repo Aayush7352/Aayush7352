@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFDD&center=true&vCenter=true&multiline=true&lines=⚙️+Full+Stack+Engineer+%7C+AI+Optimist;🚀+System+Builder+%7C+SpaceX+xAI+Dreamer;🔥+Operating+System+%26+AI+Infra+in+Progress;💡+17+Days+%3D+World's+Top+1%25+Dev" alt="Typing SVG"/>
   </a>
 </p>
----
 
 ## 🧠 About Me
 
