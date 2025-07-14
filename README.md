@@ -114,13 +114,13 @@
 ## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aayush-dixit-751382231/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush_Dixit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Aayush__singh_">
-    <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/X-%40Aayush__singh_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://aayushsinghdixit.com">
-    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser"/>
+    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
 </p>
 
