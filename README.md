@@ -111,16 +111,15 @@
 
 ## 🔗 Connect With Me
 
+## 📊 GitHub Insights
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/Aayush__singh_">
-    <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter"/>
-  </a>
-  <a href="https://aayushsinghdixit.com">
-    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush7352&show_icons=true&theme=tokyonight&cache_seconds=1800&v=2" width="45%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=aayush7352&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=2" width="45%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" width="45%"/>
 </p>
 
 ---
