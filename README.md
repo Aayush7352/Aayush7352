@@ -113,7 +113,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
