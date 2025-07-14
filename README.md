@@ -123,6 +123,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" width="45%"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/aayush7352/aayush7352/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 ---
 
 ## 🧨 Motto
