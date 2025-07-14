@@ -112,18 +112,18 @@
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush_Dixit-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/Aayush__singh_">
-    <img src="https://img.shields.io/badge/X-%40Aayush__singh_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/Aayush__singh_" target="_blank">
+    <img alt="Twitter/X" src="https://img.shields.io/badge/X-@Aayush__singh_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://aayushsinghdixit.com">
-    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  <a href="https://aayushsinghdixit.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-111?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
-
 
 ---
 
