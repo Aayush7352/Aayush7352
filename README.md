@@ -95,12 +95,13 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush7352&show_icons=true&theme=tokyonight&cache_seconds=1800&v=4" width="45%"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=aayush7352&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=4" width="45%"/>
-</p>
-
-<p align="left">
+<!--   <img src="https://github-readme-streak-stats.demolab.com?user=aayush7352&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=4" width="45%"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight&cache_seconds=1800&v=4" width="45%"/>
 </p>
+
+
+  
+
 
 ---
 
