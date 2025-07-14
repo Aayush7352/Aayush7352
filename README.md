@@ -112,22 +112,17 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/aayush7352" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/aayushsinghdixit](https://www.linkedin.com/in/aayush-dixit-751382231/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/aayush7352" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/aayushsinghdixit](https://twitter.com/Aayush__singh_">
+    <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="https://github.com/aayush7352" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:aayushdixit924@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://aayushsinghdixit.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://aayushsinghdixit.com">
+    <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-black?style=for-the-badge&logo=firefox-browser"/>
   </a>
 </p>
+
 
 ---
 
