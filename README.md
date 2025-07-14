@@ -113,10 +113,10 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/aayushsinghdixit](https://www.linkedin.com/in/aayush-dixit-751382231/">
+  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/">
     <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://x.com/aayushsinghdixit](https://twitter.com/Aayush__singh_">
+  <a href="https://x.com/Aayush__singh_">
     <img src="https://img.shields.io/badge/Twitter-%40aayushsinghdixit-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="https://aayushsinghdixit.com">
