@@ -94,9 +94,10 @@
 ## 📊 GitHub Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush7352&show_icons=true&theme=tokyonight&cache_seconds=1800&v=4" width="45%"/>
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=aayush7352&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&v=4) 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush7352&layout=compact&theme=tokyonight&cache_seconds=1800&v=4" width="35%"/>
+ ## 📊 Github Stats
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True)\
+[![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 </p>
 
 
