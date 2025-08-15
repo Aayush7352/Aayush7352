@@ -94,10 +94,24 @@
 ## 📊 GitHub Insights
 
  ## 📊 Github Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True)\
-[![Aayush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
-
+<table>
+  <tr>
+    <td>
+      <!-- First Box -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True" width="350"/>
+    </td>
+    <td>
+      <!-- Second Box -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue" width="350"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Third Box -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10" width="720"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 LeetCode
