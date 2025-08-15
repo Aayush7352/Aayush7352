@@ -94,9 +94,9 @@
 ## 📊 GitHub Insights
 
  ## 📊 Github Stats
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True)\
-[![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True)\
+[![Aayush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()
 
 ---
 
