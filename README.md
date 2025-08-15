@@ -92,8 +92,6 @@
 
 ---
 ## 📊 GitHub Insights
-
- ## 📊 Github Stats
 <table>
   <tr>
     <td>
@@ -106,9 +104,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <!-- Third Box -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10" width="720"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10" width="350"/>
+    </td>
+    <td>
+      <!-- Empty box to maintain layout -->
     </td>
   </tr>
 </table>
