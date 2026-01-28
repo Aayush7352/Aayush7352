@@ -13,7 +13,7 @@
 - 🎉 In 2025, built Festive Hub — a dynamic event management platform for college fests.
 - ⚙️ Developed 5+ production-grade projects at Safal Softcom (2024).
 - 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple.
-- 🛡️ Guided by **faith, rage, & vision** — working 24x7 until xAI/SpaceX hires me.
+
 
 ---
 
