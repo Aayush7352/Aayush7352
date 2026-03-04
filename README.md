@@ -92,27 +92,17 @@
 
 ---
 ## 📊 GitHub Insights
-<table>
-  <tr>
-    <td>
-      <!-- First Box -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=True" width="350"/>
-    </td>
-    <td>
-      <!-- Second Box -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush7352&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue" width="350"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Third Box -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=True&langs_count=10" width="350"/>
-    </td>
-    <td>
-      <!-- Empty box to maintain layout -->
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=true" width="400"/>
+
+<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark-blue&hide_border=true" width="400"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="400"/>
+
+</p>
+
 ---
 
 ## 🚀 LeetCode
