@@ -94,13 +94,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark-blue" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=true" width="400"/>
-
-<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark-blue&hide_border=true" width="400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="400"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark" width="48%" />
 </p>
 
 ---
