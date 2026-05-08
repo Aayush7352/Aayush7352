@@ -172,15 +172,17 @@ Core Principles:
 
 # 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="48%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="49%" height="220px"/>
+<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="49%" height="220px"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="49%" height="220px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="49%" height="220px"/>
+
+</div>
 
 ---
 
