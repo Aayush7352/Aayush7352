@@ -1,38 +1,18 @@
-<div align="center">
+<h1 align="center">🚀 Aayush Dixit — Architect of Disruptive Intelligence</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=700&lines=Aayush+Dixit;AI+Systems+Engineer;LLM+Infrastructure+%26+Evaluation;Distributed+Backend+%26+Cloud+Systems" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/Aayush7352">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Developer;☁️+Cloud+Engineer;⚙️+DevOps+Specialist;🧠+Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/aayushsinghdixit.com-0f172a?style=flat-square&logo=firefox&logoColor=64ffda&labelColor=0f172a)](https://aayushsinghdixit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=64ffda&labelColor=0f172a)](https://www.linkedin.com/in/aayush-dixit-751382231/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=64ffda&labelColor=0f172a)](https://github.com/Aayush7352)
-[![Twitter](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=64ffda&labelColor=0f172a)](https://x.com/Aayush__singh_)
-
-</div>
-
----
-
-```yaml
-profile:
-  name: Aayush Dixit
-  role: AI Systems Engineer
-  location: Gurugram, India
-  experience: 2+ years in production AI systems
-
-focus:
-  - LLM Evaluation & Benchmarking Systems
-  - AI Infrastructure & Orchestration Pipelines
-  - Distributed Backend Engineering
-  - Cloud-Native Architectures (AWS)
-  - Multi-Agent System Design
-  - Reliability Engineering & Fault-Tolerant Systems
-
-currently:
-  building: Production LLM evaluation & benchmarking infrastructure @ EtharaAI
-  exploring: AI observability, inference optimization, RLHF pipelines
-  open_to: AI Systems / MLE / Backend Infrastructure roles at top-tier companies
-```
+## 🧠 About Me
+- 🎓 A Computer Science graduate from Gujarat Technological University, with a strong foundation in software engineering, system design, and real-world problem solving.
+- 💡 Software Engineer who builds like an architect — with systems thinking, not shortcuts.
+- 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
+- 🎉 In 2025, built Festive Hub — a dynamic event management platform for college fests.
+- ⚙️ Developed 5+ production-grade projects at Safal Softcom (2024).
+- 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple.
 
 ---
 
