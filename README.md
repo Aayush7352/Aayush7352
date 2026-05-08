@@ -1,38 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=700&lines=Aayush+Dixit;AI+Systems+Engineer;LLM+Infrastructure+%26+Evaluation;Distributed+Backend+%26+Cloud+Systems" alt="Typing SVG" />
+<h1 align="center">Aayush Dixit — AI Systems Engineer</h1>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Aayush7352">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=🤖+AI+Systems+Engineer;⚙️+LLM+Evaluation+%26+Benchmarking;☁️+Distributed+Backend+%26+Cloud+Infra;🧠+Multi-Agent+Systems+%26+RAG+Pipelines" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/aayushsinghdixit.com-0f172a?style=flat-square&logo=firefox&logoColor=64ffda&labelColor=0f172a)](https://aayushsinghdixit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=64ffda&labelColor=0f172a)](https://www.linkedin.com/in/aayush-dixit-751382231/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=64ffda&labelColor=0f172a)](https://github.com/Aayush7352)
-[![Twitter](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=64ffda&labelColor=0f172a)](https://x.com/Aayush__singh_)
-
-</div>
-
----
-
-```yaml
-profile:
-  name: Aayush Dixit
-  role: AI Systems Engineer
-  location: Gurugram, India
-  experience: 2+ years in production AI systems
-
-focus:
-  - LLM Evaluation & Benchmarking Systems
-  - AI Infrastructure & Orchestration Pipelines
-  - Distributed Backend Engineering
-  - Cloud-Native Architectures (AWS)
-  - Multi-Agent System Design
-  - Reliability Engineering & Fault-Tolerant Systems
-
-currently:
-  building: Production LLM evaluation & benchmarking infrastructure @ EtharaAI
-  exploring: AI observability, inference optimization, RLHF pipelines
-  open_to: AI Systems / MLE / Backend Infrastructure roles at top-tier companies
-```
+## 🧠 About Me
+- 🎓 Computer Science graduate from Gujarat Technological University — strong foundation in systems engineering, distributed architecture, and production AI.
+- ⚙️ AI Systems Engineer who thinks in pipelines, not prototypes — obsessed with reliability, scalability, and real-world deployment.
+- 🤖 Built enterprise-grade **LLM Evaluation & Benchmarking Infrastructure** processing 10,000+ tasks per lifecycle — ARC-AGI reasoning, multi-step planning, instruction adherence.
+- 🚆 Engineered real-time, fault-tolerant backend systems for the **₹410 Cr Indian Railways TCAS project** — sub-second signaling, zero-fault tolerance, government-grade safety protocols.
+- 🧾 Built a production **AI Invoice Extraction System** — 90%+ accuracy across 1M+ invoices/year using AWS Textract + Python + React.
+- 🌍 Currently building AI infrastructure at **EtharaAI** — frontier LLM systems, evaluation pipelines, and distributed backend architecture at scale.
 
 ---
 
