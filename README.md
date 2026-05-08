@@ -9,11 +9,6 @@
 <p align="center">
   Engineering scalable AI infrastructure, distributed backend systems, and production-grade automation workflows.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile+Views&color=58A6FF&style=flat-square"/>
-</p>
-
 ---
 
 # 🧠 About Me
