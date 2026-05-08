@@ -1,147 +1,129 @@
-<h1 align="center">🚀 Aayush Dixit — Architect of Disruptive Intelligence</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Aayush7352">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4C4C&center=true&vCenter=true&width=600&lines=👨‍💻+Full+Stack+Developer;☁️+Cloud+Engineer;⚙️+DevOps+Specialist;🧠+Machine+Learning+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E2E8F0&center=true&vCenter=true&width=700&lines=Aayush+Dixit;AI+Systems+Engineer;LLM+Infrastructure+%26+Evaluation;Distributed+Backend+%26+Cloud+Systems" alt="Typing SVG" />
 
-## 🧠 About Me
-- 🎓 A Computer Science graduate from Gujarat Technological University, with a strong foundation in software engineering, system design, and real-world problem solving.
-- 💡 Software Engineer who builds like an architect — with systems thinking, not shortcuts.
-- 🧾 Built **India’s best Invoice Extraction System** (AWS Textract + Python + React)
-- 🎉 In 2025, built Festive Hub — a dynamic event management platform for college fests.
-- ⚙️ Developed 5+ production-grade projects at Safal Softcom (2024).
-- 🌍 Currently focused on building an **OS + AI layer** that will outperform Google & Apple.
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/aayushsinghdixit.com-0f172a?style=flat-square&logo=firefox&logoColor=64ffda&labelColor=0f172a)](https://aayushsinghdixit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=64ffda&labelColor=0f172a)](https://www.linkedin.com/in/aayush-dixit-751382231/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=64ffda&labelColor=0f172a)](https://github.com/Aayush7352)
+[![Twitter](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=64ffda&labelColor=0f172a)](https://x.com/Aayush__singh_)
+
+</div>
 
 ---
 
-## ⚙️ Tech Stack Mastery
+```yaml
+profile:
+  name: Aayush Dixit
+  role: AI Systems Engineer
+  location: Gurugram, India
+  experience: 2+ years in production AI systems
 
-### 🔥 Core Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+focus:
+  - LLM Evaluation & Benchmarking Systems
+  - AI Infrastructure & Orchestration Pipelines
+  - Distributed Backend Engineering
+  - Cloud-Native Architectures (AWS)
+  - Multi-Agent System Design
+  - Reliability Engineering & Fault-Tolerant Systems
 
-### 🌐 Web & App Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
-
-### 📊 Data Science & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### 🧠 Distributed & Infra
-<p align="left">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-FF9900?style=for-the-badge&logo=apachespark&logoColor=black"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+currently:
+  building: Production LLM evaluation & benchmarking infrastructure @ EtharaAI
+  exploring: AI observability, inference optimization, RLHF pipelines
+  open_to: AI Systems / MLE / Backend Infrastructure roles at top-tier companies
+```
 
 ---
 
-## 🧠 Featured Projects
+## Systems I've Shipped
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧾 **Invoice Extraction System** | India’s top-tier automated invoice processor | React, Python, S3 ,Textract |
-| 🎉 **FestiveHub** | College event management App | Android Studio,Java,XML,phpmyadmin,MySQL,Razorpay API |
-| 🌍 **aayushsinghdixit.com** | Personal portfolio | React.js, Node.js ,TailwindCSS |
-| 🔐 **Stock Market Predictor** | AI model using sentiment & ML patterns | React + Python |
-
----
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="48%">
-</p>
----
-
-## 🚀 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code)](https://leetcode.com/aayush7352/)
+| System | What it does | Stack |
+|--------|-------------|-------|
+| **LLM Evaluation Infrastructure** | Benchmarking & evaluation pipelines processing 10,000+ tasks per lifecycle — ARC-AGI reasoning, multi-step planning, instruction adherence | Python · AWS · PyTorch · Custom Eval Frameworks |
+| **AI Invoice Extraction System** | Document intelligence pipeline — 90%+ extraction accuracy across 1M+ invoices/year with automated validation | Python · AWS Textract · S3 · Lambda · React |
+| **TCAS Backend (Indian Railways)** | Real-time, fail-safe backend logic for a ₹410 Cr collision avoidance system — sub-second signaling, zero-fault tolerance | Embedded Systems · Fault-Tolerant Pipelines |
+| **Stock Market Predictor** | Transformer-based forecasting with 85% accuracy — 60-day rolling window, full REST API + dashboard | Python · TensorFlow · Flask · React |
+| **Custom UNIX-Style OS** | Process scheduler, custom filesystem, memory management — built from scratch | C · GCC · QEMU · Makefile |
+| **FestiveHub** | Production Android event platform — real-time registration, role-based auth, CI/CD automated delivery | Java · Android · MySQL · Jenkins |
 
 ---
 
-## 🔗 Connect With Me
+## Core Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/Aayush__singh_" target="_blank">
-    <img alt="Twitter/X" src="https://img.shields.io/badge/X-@Aayush__singh_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://aayushsinghdixit.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-111?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
-</p>
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=64ffda)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=64ffda)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=64ffda)
+![HuggingFace](https://img.shields.io/badge/Transformers-0f172a?style=flat-square&logo=huggingface&logoColor=64ffda)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=64ffda)
+![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=64ffda)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=64ffda)
+![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=64ffda)
+
+**Infrastructure & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=64ffda)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=64ffda)
+![Jenkins](https://img.shields.io/badge/Jenkins-0f172a?style=flat-square&logo=jenkins&logoColor=64ffda)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=64ffda)
+
+**Data & Messaging**
+
+![Kafka](https://img.shields.io/badge/Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=64ffda)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=64ffda)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=64ffda)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=64ffda)
 
 ---
 
-## 🧨 Motto
+## GitHub Activity
 
-> If others are dreaming of a seat, I’m designing the rocket.
+<div align="center">
 
-> I don't just write code. I write revolutions.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="48%"/>
+
+</div>
 
 ---
-### 🧭 My Engineering Philosophy
 
-- Code must be clean before it is clever.
-- Systems should be designed to fail safely, scale easily, and recover instantly.
-- I build for tomorrow, not just for the demo.
-- Like Tesla, I don't dream of the future — I engineer it.
-  
+## Engineering Principles
+
+```
+Reliability is a feature, not an afterthought.
+Evaluation is infrastructure — not a script you run once.
+A system that fails loudly is better than one that fails silently.
+Abstractions should hide complexity, not bury it.
+Ship incrementally. Measure everything. Fix what matters.
+```
+
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
+## Certifications & Recognition
+
+- **Google Cloud** — Cloud Computing Foundations
+- **SAP ABAP** — BTP, ML, IoT, Computer Vision (Code Unnati)
+- **IIT Bombay** — AI/ML, Web Engineering, DSA
+- **IIT Kanpur** — Ethical Hacking & Cybersecurity
+- **AWS Solutions Architect Professional** *(In Progress — Jun 2026)*
+- **NVIDIA AI Infrastructure** *(In Progress — Nov 2026)*
+- SAP Hackathon National Semi-Finals — Real-time ambulance tracking system
+- First Place — Autonomous Maze Solver, PDEU Tech Competition
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aayush7352&label=Profile+Views&color=64ffda&style=flat-square)
+
+</div>
