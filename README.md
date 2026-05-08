@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Aayush Dixit — AI Systems Engineer</h1>
+<h1 align="center">Aayush Dixit — "The Execution King"</h1>
 
 <p align="center">
   <a href="https://github.com/Aayush7352">
