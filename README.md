@@ -1,12 +1,9 @@
 <h1 align="Left">⚡ Aayush Dixit — AI Systems & Distributed Infrastructure Engineer</h1>
 
-<p align="left">
+<p align="Left">
   <a href="https://github.com/Aayush7352">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=false&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering" 
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering" />
   </a>
-</p>
 
 <p align="Left">
   Engineering scalable AI infrastructure, distributed backend systems, and production-grade automation workflows.
