@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="Left">
   Engineering scalable AI infrastructure, distributed backend systems, and production-grade automation workflows.
 </p>
 
