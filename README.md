@@ -172,7 +172,7 @@ Core Principles:
 
 # 📊 GitHub Insights
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="49%" height="220px"/>
 <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="49%" height="220px"/>
@@ -188,7 +188,7 @@ Core Principles:
 
 # 🚀 LeetCode
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/aayush7352/">
     <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code" />
   </a>
@@ -198,7 +198,7 @@ Core Principles:
 
 # 🔗 Connect With Me
 
-<p align="center">
+<p align="Left">
   <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
