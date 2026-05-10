@@ -171,28 +171,33 @@ Core Principles:
 
 # 📊 GitHub Insights
 
-<div align="left">
+<div 
+  align="left"
+  style="
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:16px;
+  "
+>
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" 
-  width="47%" 
+  width="100%"
 />
 
 <img 
   src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" 
-  width="51%" 
+  width="100%"
 />
-
-<br/>
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" 
-  width="47%" 
+  width="100%"
 />
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" 
-  width="51%" 
+  width="100%"
 />
 
 </div>
