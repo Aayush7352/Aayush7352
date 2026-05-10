@@ -171,25 +171,31 @@ Core Principles:
 
 # 📊 GitHub Insights
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="100%"/>
-    </td>
-  </tr>
+<div align="left">
 
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" 
+  width="47%" 
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" 
+  width="51%" 
+/>
+
+<br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" 
+  width="47%" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" 
+  width="51%" 
+/>
+
+</div>
 
 ---
 # 🚀 LeetCode
