@@ -174,7 +174,7 @@ Core Principles:
 <div align="left">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="49%" height="220px"/>
-<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="49%" height="240px"/>
+<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="49%" height="270px"/>
 
 <br/>
 
