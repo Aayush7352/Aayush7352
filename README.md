@@ -91,23 +91,164 @@
 
 # 🧠 About Me
 
-I'm an AI Systems & Infrastructure Engineer focused on building resilient, production-grade systems across AI, distributed backend engineering, and cloud-native infrastructure.
+<div align="center">
 
-My work spans:
-- LLM evaluation & benchmarking systems
-- Distributed backend architectures
-- High-throughput automation pipelines
-- AI infrastructure & observability
-- Reliability engineering
-- Cloud-native deployments
-- Intelligent workflow orchestration
+<table>
+<tr>
+<td>
 
-I enjoy solving engineering problems where:
-- AI systems meet distributed infrastructure
-- Scalability meets reliability
-- Intelligent workflows meet real-world production constraints
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&width=640&lines=%2F%2F+resilient+by+design;%2F%2F+production-grade+by+default;%2F%2F+distributed+at+the+core;%2F%2F+cloud-native+all+the+way+down" alt="about tagline"/>
 
----
+</td>
+</tr>
+</table>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+> ### <img src="https://img.shields.io/badge/-%2F%2F%20MISSION-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
+>
+> Build **resilient, production-grade systems** across **AI**, **distributed backends**, and **cloud-native infrastructure** — the kind that survive real load, real users, and real chaos.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">
+
+<img src="https://img.shields.io/badge/-%2F%2F%20WORK%20SPANS-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+
+</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🧠
+**LLM Evaluation**
+<sub>Benchmarking systems for reasoning, tool-use, and multi-step AI execution</sub>
+
+<img src="https://img.shields.io/badge/Benchmarking-58A6FF?style=flat-square&labelColor=0D1117"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌐
+**Distributed Backends**
+<sub>High-throughput, low-latency architectures built to scale horizontally</sub>
+
+<img src="https://img.shields.io/badge/Scale%20Out-2EA043?style=flat-square&labelColor=0D1117"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️
+**Automation Pipelines**
+<sub>Throughput-optimized workflows for document, data, and inference pipelines</sub>
+
+<img src="https://img.shields.io/badge/High%20Throughput-F85149?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🔭
+**AI Observability**
+<sub>Tracing, metrics, and evaluation pipelines for models running in production</sub>
+
+<img src="https://img.shields.io/badge/Production%20Grade-1F6FEB?style=flat-square&labelColor=0D1117"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🛡️
+**Reliability Engineering**
+<sub>Fault-tolerance, graceful degradation, and SLO-driven system design</sub>
+
+<img src="https://img.shields.io/badge/SLO%20Driven-FFD700?style=flat-square&labelColor=0D1117"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ☁️
+**Cloud-Native Deploy**
+<sub>Container-first, IaC-driven deployments on AWS, Azure, and GCP</sub>
+
+<img src="https://img.shields.io/badge/Multi%20Cloud-58A6FF?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" align="center">
+
+### 🎼
+**Intelligent Workflow Orchestration**
+<sub>Multi-agent systems and orchestration layers that coordinate models, tools, and services under real-world constraints</sub>
+
+<img src="https://img.shields.io/badge/Multi%20Agent-181717?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Orchestration-1F6FEB?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">
+
+<img src="https://img.shields.io/badge/-%2F%2F%20WHERE%20I%20THRIVE-2EA043?style=for-the-badge&labelColor=0D1117"/>
+
+</h3>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-INTERSECTION%2001-1F6FEB?style=flat-square&labelColor=0D1117"/>
+
+**AI Systems**
+`meet`
+**Distributed Infrastructure**
+
+<sub>Where model latency budgets collide with cross-region replication</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-INTERSECTION%2002-2EA043?style=flat-square&labelColor=0D1117"/>
+
+**Scalability**
+`meets`
+**Reliability**
+
+<sub>Where 10× traffic meets a 99.99% availability contract</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-INTERSECTION%2003-F85149?style=flat-square&labelColor=0D1117"/>
+
+**Intelligent Workflows**
+`meet`
+**Production Constraints**
+
+<sub>Where agent autonomy meets rate limits, budgets, and blast radius</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%"/>
+
+</div>
 
 # ⚡ Systems I've Built
 
