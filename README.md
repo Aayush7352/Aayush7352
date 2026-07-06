@@ -476,6 +476,10 @@ Full-stack event management platform with real-time registration workflows.
 
 <br/><br/>
 
+<sub><i>The snake devours every commit — one contribution at a time.</i></sub>
+
+<br/>
+
 <!-- Contribution Snake (requires .github/workflows/snake.yml — see setup) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake-dark.svg"/>
