@@ -288,10 +288,6 @@ Core Principles:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aayush7352&theme=darkhub&no-frame=true&column=7&margin-w=8" width="95%"/>
-
-<br/><br/>
-
 <!-- Contribution Snake (requires .github/workflows/snake.yml — see setup) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake-dark.svg"/>
