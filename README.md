@@ -43,21 +43,6 @@
 </tr>
 </table>
 
-<table width="90%">
-<tr>
-<td width="100%">
-
-<h3 align="center">
-
-<img src="https://img.shields.io/badge/-Aayush%20Dixit-1F6FEB?style=for-the-badge&labelColor=0D1117&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AI%20Systems%20%C2%B7%20Distributed%20Infrastructure-0D1117?style=for-the-badge&labelColor=161B22"/>
-
-</h3>
-
-</td>
-</tr>
-</table>
-
 <table>
 <tr>
 <td width="50%" valign="top">
