@@ -11,12 +11,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: output-branch
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v5
 
       - name: Generate 3D profile SVGs
@@ -25,11 +29,37 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish to output branch (preserving snake SVGs)
+        run: |
+          set -euxo pipefail
+
+          # Stash generated 3D SVGs outside the working tree
+          STAGING="$RUNNER_TEMP/profile-3d"
+          mv profile-3d-contrib "$STAGING"
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Prepare output branch worktree (create if missing)
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch origin output
+            git worktree add out-branch origin/output
+            cd out-branch
+            git checkout -B output
+          else
+            git worktree add --detach out-branch
+            cd out-branch
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          # Overlay generated 3D SVGs on top of existing files (preserves snake SVGs)
+          cp -f "$STAGING"/*.svg .
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update 3D contribution graph [skip ci]"
+            git push origin output
+          fi
