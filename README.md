@@ -30,22 +30,79 @@
 
 <br/>
 
-```text
-$ whoami
-────────────────────────────────────────────────────────────────────
- Aayush Dixit — AI Systems & Distributed Infrastructure Engineer
+<div align="center">
 
- › I build the layer where AI meets production reality:
-   evaluation pipelines, fault-tolerant backends, and
-   infrastructure that survives real-world chaos.
+<!-- Terminal-style whoami card -->
+<table>
+<tr>
+<td>
 
- › Contributed backend & network workflows to TCAS —
-   India's ₹410 Crore railway collision-avoidance system.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&width=520&lines=%24+whoami+--verbose;%24+cat+%2Fetc%2Fengineer%2Fidentity;%24+echo+%22Aayush+Dixit%22" alt="whoami terminal"/>
 
- › Philosophy: demos impress for a day. Systems that never
-   go down impress forever.
-────────────────────────────────────────────────────────────────────
-```
+</td>
+</tr>
+</table>
+
+<table width="90%">
+<tr>
+<td width="100%">
+
+<h3 align="center">
+
+<img src="https://img.shields.io/badge/-Aayush%20Dixit-1F6FEB?style=for-the-badge&labelColor=0D1117&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AI%20Systems%20%C2%B7%20Distributed%20Infrastructure-0D1117?style=for-the-badge&labelColor=161B22"/>
+
+</h3>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-01-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; What I Build
+
+> The layer where **AI meets production reality**
+> — evaluation pipelines, fault-tolerant backends, and infrastructure that **survives real-world chaos**.
+
+<img src="https://img.shields.io/badge/Production%20AI-58A6FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Fault%20Tolerant-2EA043?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Chaos%20Resilient-F85149?style=flat-square&labelColor=0D1117"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/badge/-02-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; National-Scale Impact
+
+> Contributed backend & network workflows to **TCAS** —
+> India's **₹410 Crore** railway collision-avoidance system.
+
+<img src="https://img.shields.io/badge/%E2%82%B9410%20Cr-FFD700?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Indian%20Railways-000080?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Safety%20Critical-F85149?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<table width="90%">
+<tr>
+<td>
+
+#### <img src="https://img.shields.io/badge/-03-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; Philosophy
+
+> ### _"Demos impress for a day._
+> ### _Systems that never go down impress **forever**."_
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%"/>
+
+</div>
 
 # 🧠 About Me
 
