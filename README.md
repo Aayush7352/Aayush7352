@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&width=520&lines=%24+whoami+--verbose;%24+cat+%2Fetc%2Fengineer%2Fidentity;%24+echo+%22Aayush+Dixit%22" alt="whoami terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%24+whoami+--verbose;%24+cat+%2Fetc%2Fengineer%2Fidentity;%24+echo+%22Aayush+Dixit%22" alt="whoami terminal"/>
 
 <br/><br/>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&width=640&lines=%2F%2F+resilient+by+design;%2F%2F+production-grade+by+default;%2F%2F+distributed+at+the+core;%2F%2F+cloud-native+all+the+way+down" alt="about tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%2F%2F+resilient+by+design;%2F%2F+production-grade+by+default;%2F%2F+distributed+at+the+core;%2F%2F+cloud-native+all+the+way+down" alt="about tagline"/>
 
 </div>
 
