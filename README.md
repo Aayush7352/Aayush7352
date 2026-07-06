@@ -485,6 +485,19 @@ Full-stack event management platform with real-time registration workflows.
 
 <br/><br/>
 
+<sub><i>3D contribution skyline — every block is a commit day.</i></sub>
+
+<br/>
+
+<!-- 3D Contribution Graph (requires .github/workflows/profile-3d.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-night-view.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-gitblock.svg"/>
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-gitblock.svg" width="95%"/>
+</picture>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
 
 </div>
