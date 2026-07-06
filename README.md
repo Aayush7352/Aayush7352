@@ -1,8 +1,10 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    AAYUSH DIXIT — PROFILE README                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════ HERO BANNER ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=AAYUSH%20DIXIT&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20Distributed%20Infrastructure%20%C2%B7%20Production%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=AAYUSH%20DIXIT&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20Distributed%20Infrastructure%20%C2%B7%20Production%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -10,7 +12,7 @@
 
 <p align="Left">
   <a href="https://github.com/Aayush7352">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering;I+engineer+systems+that+refuse+to+fail.;Built+workflows+for+a+%E2%82%B9410+Cr+Railway+Safety+System" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering;I+engineer+systems+that+refuse+to+fail." />
   </a>
 </p>
 
@@ -28,8 +30,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ SNAPSHOT ═══════════════════════ -->
-
 ```text
 $ whoami
 ────────────────────────────────────────────────────────────────────
@@ -46,8 +46,6 @@ $ whoami
    go down impress forever.
 ────────────────────────────────────────────────────────────────────
 ```
-
-<br/>
 
 # 🧠 About Me
 
@@ -69,9 +67,7 @@ I enjoy solving engineering problems where:
 
 ---
 
-<!-- ═══════════════════════ FLAGSHIP SYSTEMS ═══════════════════════ -->
-
-# 🚀 Flagship Systems
+# ⚡ Systems I've Built
 
 <table>
 <tr>
@@ -79,7 +75,7 @@ I enjoy solving engineering problems where:
 
 ### 🛤️ TCAS — Railway Collision Avoidance
 **₹410 Cr national-scale safety infrastructure**
-Backend & network-oriented workflows for Indian Railways' Train Collision Avoidance System — where a single failure is measured in lives, not logs.
+Backend and network-oriented workflows for Indian Railways' Train Collision Avoidance System — where a single failure is measured in lives, not logs.
 
 `Embedded Systems` `Fault-Tolerant Infrastructure`
 
@@ -88,7 +84,7 @@ Backend & network-oriented workflows for Indian Railways' Train Collision Avoida
 
 ### 🧠 LLM Evaluation Infrastructure
 **Benchmarking AI at scale**
-Large-scale evaluation workflows for reasoning and multi-step agentic execution — the systems that decide whether a model is actually good.
+Large-scale benchmarking workflows for reasoning and multi-step AI execution — the systems that decide whether a model is actually good.
 
 `Python` `AWS` `PyTorch`
 
@@ -99,16 +95,16 @@ Large-scale evaluation workflows for reasoning and multi-step agentic execution 
 
 ### 📄 AI Invoice Extraction Pipeline
 **High-throughput document intelligence**
-End-to-end platform turning unstructured documents into structured data — automated extraction, validation, and delivery.
+Document intelligence platform with automated structured extraction — turning unstructured chaos into clean data at scale.
 
 `Python` `AWS Textract` `React` `S3`
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Custom UNIX-Style Operating System
+### 🖥️ Custom UNIX-Style OS
 **Built from bare metal up**
-Process scheduling, memory management, and a filesystem — written in C, booted in QEMU. Because the best way to respect an OS is to build one.
+Operating system featuring scheduling, memory management, and filesystem components — written in C, booted in QEMU.
 
 `C` `GCC` `QEMU`
 
@@ -119,7 +115,7 @@ Process scheduling, memory management, and a filesystem — written in C, booted
 
 ### 📈 Stock Market Prediction System
 **ML forecasting in production**
-Prediction engine with serving APIs and live visualization pipelines — models are useless until they're deployed.
+ML-powered forecasting platform with APIs and visualization pipelines — because models are useless until deployed.
 
 `TensorFlow` `Flask` `React`
 
@@ -127,27 +123,14 @@ Prediction engine with serving APIs and live visualization pipelines — models 
 <td width="50%" valign="top">
 
 ### 🎪 FestiveHub
-**Real-time event management platform**
-Full-stack Android platform handling live registration workflows for large events.
+**Real-time event management**
+Full-stack event management platform with real-time registration workflows.
 
 `Java` `Android` `MySQL`
 
 </td>
 </tr>
 </table>
-
----
-
-# ⚡ Systems I've Built
-
-| System | Description | Stack |
-|--------|-------------|-------|
-| **LLM Evaluation Infrastructure** | Large-scale benchmarking workflows for reasoning and multi-step AI execution | Python · AWS · PyTorch |
-| **AI Invoice Extraction Pipeline** | High-throughput document intelligence platform with automated structured extraction | Python · AWS Textract · React · S3 |
-| **TCAS Infrastructure Workflows** | Backend and network-oriented workflows for the ₹410 Cr Indian Railways collision avoidance system | Embedded Systems · Fault-Tolerant Infrastructure |
-| **Stock Market Prediction System** | ML-powered forecasting platform with APIs and visualization pipelines | TensorFlow · Flask · React |
-| **FestiveHub** | Full-stack event management platform with real-time registration workflows | Java · Android · MySQL |
-| **Custom UNIX-Style OS** | Operating system featuring scheduling, memory management, and filesystem components | C · GCC · QEMU |
 
 ---
 
@@ -169,32 +152,6 @@ Core Principles:
   - Treat observability as a first-class system
   - Design systems that survive real-world complexity
 ```
-
----
-
-<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
-
-# 🧰 The Arsenal
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash&theme=dark" />
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,kafka,redis,mongodb,mysql&theme=dark" />
-
-**Backend & Frontend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,nextjs,flutter&theme=dark" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,prometheus,linux&theme=dark" />
-
-</div>
 
 ---
 
@@ -303,8 +260,6 @@ Core Principles:
 </tr>
 </table>
 
----
-
 # 📊 GitHub Insights
 
 <table>
@@ -329,25 +284,15 @@ Core Principles:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="170"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush7352&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true&area=true" width="95%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aayush7352&theme=darkhub&no-frame=true&column=7&margin-w=8" width="95%"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-<div align="center">
-
+<!-- Contribution Snake (requires .github/workflows/snake.yml — see setup) -->
 <img src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
