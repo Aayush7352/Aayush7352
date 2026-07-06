@@ -1,242 +1,236 @@
-<h1 align="Left">⚡ Aayush Dixit — AI Systems & Distributed Infrastructure Engineer</h1>
+<div align="center">
 
-<p align="Left">
-  <a href="https://github.com/Aayush7352">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering" />
-  </a>
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<p align="Left">
-  Engineering scalable AI infrastructure, distributed backend systems, and production-grade automation workflows.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=AAYUSH%20DIXIT&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20Distributed%20Infrastructure%20%C2%B7%20Production%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://github.com/Aayush7352">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=I+engineer+systems+that+refuse+to+fail.;LLM+Evaluation+%26+AI+Infrastructure;Distributed+Backends+at+Scale;Built+workflows+for+a+%E2%82%B9410+Cr+Railway+Safety+System;Cloud-Native+%C2%B7+Fault-Tolerant+%C2%B7+Observable" />
+</a>
 
-# 🧠 About Me
+<br/>
 
-I’m an AI Systems & Infrastructure Engineer focused on building resilient, production-grade systems across AI, distributed backend engineering, and cloud-native infrastructure.
+<img src="https://img.shields.io/badge/Focus-Production_AI_Systems-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Scale-Distributed_Infrastructure-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Mindset-Reliability_First-2EA043?style=for-the-badge&labelColor=0D1117"/>
 
-My work spans:
-- LLM evaluation & benchmarking systems
-- Distributed backend architectures
-- High-throughput automation pipelines
-- AI infrastructure & observability
-- Reliability engineering
-- Cloud-native deployments
-- Intelligent workflow orchestration
+</div>
 
-I enjoy solving engineering problems where:
-- AI systems meet distributed infrastructure
-- Scalability meets reliability
-- Intelligent workflows meet real-world production constraints
+<br/>
 
----
+<!-- ═══════════════════════ SNAPSHOT ═══════════════════════ -->
 
-# ⚡ Systems I've Built
+```text
+$ whoami
+────────────────────────────────────────────────────────────────────
+ Aayush Dixit — AI Systems & Distributed Infrastructure Engineer
 
-| System | Description | Stack |
-|--------|-------------|-------|
-| **LLM Evaluation Infrastructure** | Large-scale benchmarking workflows for reasoning and multi-step AI execution | Python · AWS · PyTorch |
-| **AI Invoice Extraction Pipeline** | High-throughput document intelligence platform with automated structured extraction | Python · AWS Textract · React · S3 |
-| **TCAS Infrastructure Workflows** | Backend and network-oriented workflows for the ₹410 Cr Indian Railways collision avoidance system | Embedded Systems · Fault-Tolerant Infrastructure |
-| **Stock Market Prediction System** | ML-powered forecasting platform with APIs and visualization pipelines | TensorFlow · Flask · React |
-| **FestiveHub** | Full-stack event management platform with real-time registration workflows | Java · Android · MySQL |
-| **Custom UNIX-Style OS** | Operating system featuring scheduling, memory management, and filesystem components | C · GCC · QEMU |
+ › I build the layer where AI meets production reality:
+   evaluation pipelines, fault-tolerant backends, and
+   infrastructure that survives real-world chaos.
 
----
+ › Contributed backend & network workflows to TCAS —
+   India's ₹410 Crore railway collision-avoidance system.
 
-# ⚙️ Engineering Focus
-
-```yaml
-Domains:
-  - Production AI Systems
-  - Distributed Backend Engineering
-  - AI Infrastructure & Observability
-  - Multi-Agent Systems
-  - Reliability Engineering
-  - Cloud-Native Architecture
-  - LLM Evaluation & Benchmarking
-
-Core Principles:
-  - Build for production, not demos
-  - Engineer for scalability & fault tolerance
-  - Treat observability as a first-class system
-  - Design systems that survive real-world complexity
+ › Philosophy: demos impress for a day. Systems that never
+   go down impress forever.
+────────────────────────────────────────────────────────────────────
 ```
 
----
+<br/>
 
-## ⚙️ Tech Stack Mastery
+<!-- ═══════════════════════ FLAGSHIP SYSTEMS ═══════════════════════ -->
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-## 🔥 Core Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-## 🌐 Backend & App Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-## ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-## 🧠 AI • Distributed Systems • Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multi_Agent_Systems-181717?style=for-the-badge"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-# 📊 GitHub Insights
+## 🚀 Flagship Systems
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="100%"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="100%"/>
-    </td>
-  </tr>
+### 🛤️ TCAS — Railway Collision Avoidance
+**₹410 Cr national-scale safety infrastructure**
+Backend & network-oriented workflows for Indian Railways' Train Collision Avoidance System — where a single failure is measured in lives, not logs.
+
+`Embedded Systems` `Fault-Tolerant Infrastructure`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LLM Evaluation Infrastructure
+**Benchmarking AI at scale**
+Large-scale evaluation workflows for reasoning and multi-step agentic execution — the systems that decide whether a model is actually good.
+
+`Python` `AWS` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AI Invoice Extraction Pipeline
+**High-throughput document intelligence**
+End-to-end platform turning unstructured documents into structured data — automated extraction, validation, and delivery.
+
+`Python` `AWS Textract` `React` `S3`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Custom UNIX-Style Operating System
+**Built from bare metal up**
+Process scheduling, memory management, and a filesystem — written in C, booted in QEMU. Because the best way to respect an OS is to build one.
+
+`C` `GCC` `QEMU`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Stock Market Prediction System
+**ML forecasting in production**
+Prediction engine with serving APIs and live visualization pipelines — models are useless until they're deployed.
+
+`TensorFlow` `Flask` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎪 FestiveHub
+**Real-time event management platform**
+Full-stack Android platform handling live registration workflows for large events.
+
+`Java` `Android` `MySQL`
+
+</td>
+</tr>
 </table>
 
----# 🚀 LeetCode
+<br/>
 
-<p align="left">
-  <a href="https://leetcode.com/aayush7352/">
-    <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code" />
-  </a>
-</p>
+<!-- ═══════════════════════ ENGINEERING DNA ═══════════════════════ -->
 
----
+## ⚙️ Engineering DNA
 
-# 🔗 Connect With Me
+```yaml
+domains:
+  ai_systems:        [LLM Evaluation, Multi-Agent Systems, RAG, AI Observability]
+  infrastructure:    [Distributed Backends, Cloud-Native Architecture, Reliability Engineering]
+  automation:        [High-Throughput Pipelines, Intelligent Workflow Orchestration]
 
-<p align="Left">
-  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+principles:
+  - Build for production, not demos
+  - Observability is a first-class citizen, not an afterthought
+  - Systems must fail safely, recover gracefully, scale efficiently
+  - Clean before clever. Reliable before remarkable.
+```
 
-  <a href="https://x.com/Aayush__singh_" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-@Aayush__singh_-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
+<br/>
 
-  <a href="https://aayushsinghdixit.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-  </a>
-</p>
+<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
 
----
+## 🧰 The Arsenal
 
-# 🧨 Motto
+<div align="center">
 
-> “If others are dreaming of a seat, I’m designing the rocket.”
+**Languages**
 
-> “I don’t just write code. I engineer systems that shape the future.”
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash&theme=dark" />
 
----
+**AI / ML & Data**
 
-# 🧭 Engineering Philosophy
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,kafka,redis,mongodb,mysql&theme=dark" />
 
-- Code must be clean before it is clever.
-- Systems should fail safely, recover gracefully, and scale efficiently.
-- Build infrastructure for tomorrow — not just demos for today.
-- Reliability is a feature, not an afterthought.
-- Great engineering balances simplicity, scalability, and resilience.
+**Backend & Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,react,nextjs,flutter&theme=dark" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Visitors&color=58A6FF&style=flat-square"/>
-</p>
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,prometheus,linux&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ANALYTICS ═══════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aayush7352&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush7352&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush7352&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aayush7352&theme=darkhub&no-frame=true&column=7&margin-w=8" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ LEETCODE ═══════════════════════ -->
+
+## 🧩 Problem Solving
+
+<div align="center">
+<a href="https://leetcode.com/aayush7352/">
+  <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code&ext=heatmap" width="500"/>
+</a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## 🔗 Let's Build Something That Lasts
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aayush-dixit-751382231/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aayush_Dixit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://x.com/Aayush__singh_">
+  <img src="https://img.shields.io/badge/X-@Aayush__singh__-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
+</a>
+<a href="https://aayushsinghdixit.com">
+  <img src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-58A6FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+> *"If others are dreaming of a seat, I'm designing the rocket."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile+Views&color=1F6FEB&style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%"/>
+
+</div>
