@@ -1,47 +1,44 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    AAYUSH DIXIT — PROFILE README                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    AAYUSH DIXIT — PROFILE README                    -->
+<!--            AI Systems · Distributed Infrastructure · SRE            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!-- ─────────────────────────  HEADER  ────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=AAYUSH%20DIXIT&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20Distributed%20Infrastructure%20%C2%B7%20Production%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=AAYUSH%20DIXIT&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%C2%B7%20Distributed%20Infrastructure%20%C2%B7%20Production%20Engineering&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-</div>
+<br/>
 
-<h1 align="Left">⚡ Aayush Dixit — AI Systems & Distributed Infrastructure Engineer</h1>
+<a href="https://github.com/Aayush7352">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering;I+engineer+systems+that+refuse+to+fail." alt="tagline"/>
+</a>
 
-<p align="Left">
-  <a href="https://github.com/Aayush7352">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Production+AI+Systems;Distributed+Backend+Engineering;LLM+Evaluation+%26+AI+Infrastructure;Cloud-Native+Systems+Architecture;Multi-Agent+Systems+%26+Reliability+Engineering;I+engineer+systems+that+refuse+to+fail." />
-  </a>
-</p>
-
-<p align="Left">
-  Engineering scalable AI infrastructure, distributed backend systems, and production-grade automation workflows.
-</p>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Focus-Production_AI_Systems-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Scale-Distributed_Infrastructure-58A6FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Mindset-Reliability_First-2EA043?style=for-the-badge&labelColor=0D1117"/>
 
+<br/>
+<a href="#-connect-with-me"><img src="https://img.shields.io/badge/-Contact-0D1117?style=flat-square&labelColor=1F6FEB"/></a>
+<a href="https://aayushsinghdixit.com"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=flat-square&labelColor=1F6FEB"/></a>
+<a href="https://www.linkedin.com/in/aayush-dixit-751382231/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&labelColor=1F6FEB"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
+
 </div>
 
-<br/>
+<!-- ────────────────────────  WHOAMI CARD  ────────────────────────── -->
 
 <div align="center">
 
-<!-- Terminal-style whoami card -->
-<table>
-<tr>
-<td>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&width=520&lines=%24+whoami+--verbose;%24+cat+%2Fetc%2Fengineer%2Fidentity;%24+echo+%22Aayush+Dixit%22" alt="whoami terminal"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
 <table>
 <tr>
@@ -49,8 +46,7 @@
 
 #### <img src="https://img.shields.io/badge/-01-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; What I Build
 
-> The layer where **AI meets production reality**
-> — evaluation pipelines, fault-tolerant backends, and infrastructure that **survives real-world chaos**.
+> The layer where **AI meets production reality** — evaluation pipelines, fault-tolerant backends, and infrastructure that **survives real-world chaos**.
 
 <img src="https://img.shields.io/badge/Production%20AI-58A6FF?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Fault%20Tolerant-2EA043?style=flat-square&labelColor=0D1117"/>
@@ -61,8 +57,7 @@
 
 #### <img src="https://img.shields.io/badge/-02-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; National-Scale Impact
 
-> Contributed backend & network workflows to **TCAS** —
-> India's **₹410 Crore** railway collision-avoidance system.
+> Contributed backend & network workflows to **TCAS** — India's **₹410 Crore** railway collision-avoidance system.
 
 <img src="https://img.shields.io/badge/%E2%82%B9410%20Cr-FFD700?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Indian%20Railways-000080?style=flat-square&labelColor=0D1117"/>
@@ -78,36 +73,31 @@
 
 #### <img src="https://img.shields.io/badge/-03-1F6FEB?style=flat-square&labelColor=0D1117"/> &nbsp; Philosophy
 
-> ### _"Demos impress for a day._
-> ### _Systems that never go down impress **forever**."_
+> ### _"Demos impress for a day. Systems that never go down impress **forever**."_
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
 
 </div>
 
-# 🧠 About Me
+<!-- ─────────────────────────  ABOUT ME  ──────────────────────────── -->
+
+<h1 align="center">🧠 &nbsp; About Me</h1>
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&width=640&lines=%2F%2F+resilient+by+design;%2F%2F+production-grade+by+default;%2F%2F+distributed+at+the+core;%2F%2F+cloud-native+all+the+way+down" alt="about tagline"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
+<br/>
+
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td valign="top">
 
 > ### <img src="https://img.shields.io/badge/-%2F%2F%20MISSION-1F6FEB?style=for-the-badge&labelColor=0D1117"/>
 >
@@ -129,7 +119,7 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🧠
+### 🧬
 **LLM Evaluation**
 <sub>Benchmarking systems for reasoning, tool-use, and multi-step AI execution</sub>
 
@@ -212,9 +202,7 @@
 
 #### <img src="https://img.shields.io/badge/-INTERSECTION%2001-1F6FEB?style=flat-square&labelColor=0D1117"/>
 
-**AI Systems**
-`meet`
-**Distributed Infrastructure**
+**AI Systems** `meet` **Distributed Infrastructure**
 
 <sub>Where model latency budgets collide with cross-region replication</sub>
 
@@ -223,9 +211,7 @@
 
 #### <img src="https://img.shields.io/badge/-INTERSECTION%2002-2EA043?style=flat-square&labelColor=0D1117"/>
 
-**Scalability**
-`meets`
-**Reliability**
+**Scalability** `meets` **Reliability**
 
 <sub>Where 10× traffic meets a 99.99% availability contract</sub>
 
@@ -234,9 +220,7 @@
 
 #### <img src="https://img.shields.io/badge/-INTERSECTION%2003-F85149?style=flat-square&labelColor=0D1117"/>
 
-**Intelligent Workflows**
-`meet`
-**Production Constraints**
+**Intelligent Workflows** `meet` **Production Constraints**
 
 <sub>Where agent autonomy meets rate limits, budgets, and blast radius</sub>
 
@@ -245,106 +229,118 @@
 </table>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
 </div>
 
-# ⚡ Systems I've Built
+<!-- ────────────────────────  SYSTEMS BUILT  ──────────────────────── -->
+
+<h1 align="center">⚡ &nbsp; Systems I've Built</h1>
+
+<div align="center">
+<sub><i>Selected engineering work — from national-scale safety infrastructure to bare-metal operating systems.</i></sub>
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛤️ TCAS — Railway Collision Avoidance
+#### 🛤️ &nbsp; TCAS — Railway Collision Avoidance
 **₹410 Cr national-scale safety infrastructure**
+
 Backend and network-oriented workflows for Indian Railways' Train Collision Avoidance System — where a single failure is measured in lives, not logs.
 
-`Embedded Systems` `Fault-Tolerant Infrastructure`
+<img src="https://img.shields.io/badge/Embedded%20Systems-232F3E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fault%20Tolerant-2EA043?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 LLM Evaluation Infrastructure
+#### 🧬 &nbsp; LLM Evaluation Infrastructure
 **Benchmarking AI at scale**
+
 Large-scale benchmarking workflows for reasoning and multi-step AI execution — the systems that decide whether a model is actually good.
 
-`Python` `AWS` `PyTorch`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Invoice Extraction Pipeline
+#### 📄 &nbsp; AI Invoice Extraction Pipeline
 **High-throughput document intelligence**
+
 Document intelligence platform with automated structured extraction — turning unstructured chaos into clean data at scale.
 
-`Python` `AWS Textract` `React` `S3`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Textract-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Custom UNIX-Style OS
+#### 🖥️ &nbsp; Custom UNIX-Style OS
 **Built from bare metal up**
+
 Operating system featuring scheduling, memory management, and filesystem components — written in C, booted in QEMU.
 
-`C` `GCC` `QEMU`
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCC-181717?style=flat-square"/>
+<img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Stock Market Prediction System
+#### 📈 &nbsp; Stock Market Prediction System
 **ML forecasting in production**
+
 ML-powered forecasting platform with APIs and visualization pipelines — because models are useless until deployed.
 
-`TensorFlow` `Flask` `React`
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎪 FestiveHub
+#### 🎪 &nbsp; FestiveHub
 **Real-time event management**
+
 Full-stack event management platform with real-time registration workflows.
 
-`Java` `Android` `MySQL`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
+</div>
 
-# ⚙️ Engineering Focus
+<!-- ────────────────────────  TECH STACK  ─────────────────────────── -->
 
-```yaml
-Domains:
-  - Production AI Systems
-  - Distributed Backend Engineering
-  - AI Infrastructure & Observability
-  - Multi-Agent Systems
-  - Reliability Engineering
-  - Cloud-Native Architecture
-  - LLM Evaluation & Benchmarking
+<h1 align="center">🛠️ &nbsp; Tech Stack</h1>
 
-Core Principles:
-  - Build for production, not demos
-  - Engineer for scalability & fault tolerance
-  - Treat observability as a first-class system
-  - Design systems that survive real-world complexity
-```
+<div align="center">
+<sub><i>Languages, frameworks, and infrastructure I ship production systems with.</i></sub>
+</div>
 
----
-
-## ⚙️ Tech Stack Mastery
+<br/>
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-## 🔥 Core Languages
+<h3 align="center">🔥 &nbsp; Core Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -358,10 +354,9 @@ Core Principles:
 </p>
 
 </td>
-
 <td valign="top" width="50%">
 
-## 🌐 Backend & App Engineering
+<h3 align="center">🌐 &nbsp; Backend & App Engineering</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -378,11 +373,10 @@ Core Principles:
 
 </td>
 </tr>
-
 <tr>
 <td valign="top" width="50%">
 
-## ☁️ Cloud & DevOps
+<h3 align="center">☁️ &nbsp; Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -399,10 +393,9 @@ Core Principles:
 </p>
 
 </td>
-
 <td valign="top" width="50%">
 
-## 🧠 AI • Distributed Systems • Data
+<h3 align="center">🧬 &nbsp; AI · Distributed Systems · Data</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -424,11 +417,10 @@ Core Principles:
 
 </td>
 </tr>
-
 <tr>
 <td colspan="2" align="center">
 
-## 🛠️ Tools & Platforms
+<h3 align="center">🧰 &nbsp; Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -443,31 +435,44 @@ Core Principles:
 </tr>
 </table>
 
-# 📊 GitHub Insights
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
+</div>
 
-<table>
+<!-- ────────────────────────  GITHUB INSIGHTS  ────────────────────── -->
+
+<h1 align="center">📊 &nbsp; GitHub Insights</h1>
+
+<div align="center">
+<sub><i>Live GitHub activity, streaks, and language distribution.</i></sub>
+</div>
+
+<br/>
+
+<table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aayush7352&theme=github_dark" width="100%" alt="stats"/>
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="100%"/>
+      <img src="https://streak-stats.demolab.com?user=Aayush7352&theme=github-dark&hide_border=true" width="100%" alt="streak"/>
     </td>
   </tr>
-
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aayush7352&theme=github_dark" width="100%" alt="languages"/>
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aayush7352&theme=github_dark&utcOffset=5.5" width="100%" alt="productive time"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush7352&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true&area=true" width="95%"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush7352&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&hide_border=true&area=true" width="95%" alt="activity graph"/>
 
 <br/><br/>
 
@@ -475,65 +480,122 @@ Core Principles:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake.svg" width="95%"/>
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/github-contribution-grid-snake.svg" width="95%"/>
 </picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
 
 </div>
 
----
+<!-- ────────────────────────  LEETCODE  ───────────────────────────── -->
 
-# 🚀 LeetCode
+<h1 align="center">🚀 &nbsp; Competitive Programming</h1>
 
-<p align="left">
-  <a href="https://leetcode.com/aayush7352/">
-    <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code&ext=heatmap" />
-  </a>
-</p>
+<div align="center">
+<sub><i>Sharpening algorithmic intuition — one problem at a time.</i></sub>
 
----
+<br/><br/>
 
-# 🔗 Connect With Me
+<a href="https://leetcode.com/aayush7352/">
+  <img src="https://leetcard.jacoblin.cool/Aayush_7352?theme=dark&font=Fira+Code&ext=heatmap" alt="leetcode"/>
+</a>
 
-<p align="Left">
-  <a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<br/><br/>
 
-  <a href="https://x.com/Aayush__singh_" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-@Aayush__singh_-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
 
-  <a href="https://aayushsinghdixit.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-  </a>
-</p>
+</div>
 
----
+<!-- ────────────────────  ENGINEERING PHILOSOPHY  ─────────────────── -->
 
-# 🧨 Motto
+<h1 align="center">🧭 &nbsp; Engineering Philosophy</h1>
 
-> "If others are dreaming of a seat, I'm designing the rocket."
+<br/>
 
-> "I don't just write code. I engineer systems that shape the future."
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
----
+#### <img src="https://img.shields.io/badge/-CRAFT-1F6FEB?style=flat-square&labelColor=0D1117"/>
 
-# 🧭 Engineering Philosophy
+> _Code must be **clean** before it is clever._
+> _Great engineering balances **simplicity, scalability, resilience**._
 
-- Code must be clean before it is clever.
-- Systems should fail safely, recover gracefully, and scale efficiently.
-- Build infrastructure for tomorrow — not just demos for today.
-- Reliability is a feature, not an afterthought.
-- Great engineering balances simplicity, scalability, and resilience.
+</td>
+<td width="50%" valign="top" align="center">
 
----
+#### <img src="https://img.shields.io/badge/-RESILIENCE-2EA043?style=flat-square&labelColor=0D1117"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Visitors&color=58A6FF&style=flat-square"/>
-</p>
+> _Systems should **fail safely**, **recover gracefully**, and **scale efficiently**._
+> _Reliability is a **feature**, not an afterthought._
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-VISION-58A6FF?style=flat-square&labelColor=0D1117"/>
+
+> _Build infrastructure for **tomorrow** — not just demos for today._
+> _If others are dreaming of a seat, I'm designing the rocket._
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### <img src="https://img.shields.io/badge/-IMPACT-F85149?style=flat-square&labelColor=0D1117"/>
+
+> _I don't just write code._
+> _I **engineer systems** that shape the future._
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:58A6FF,100:1F6FEB&height=2&section=header" width="100%" alt="divider"/>
+</div>
+
+<!-- ────────────────────────  CONNECT  ────────────────────────────── -->
+
+<h1 align="center">🔗 &nbsp; Connect With Me</h1>
+
+<div align="center">
+<sub><i>Open to collaboration on AI infrastructure, distributed systems, and production engineering.</i></sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aayush-dixit-751382231/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aayush%20Dixit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Aayush__singh_" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/X-@Aayush__singh_-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://aayushsinghdixit.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aayushsinghdixit.com-1F6FEB?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/aayush7352/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Aayush_7352-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://github.com/Aayush7352" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Aayush7352-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<!-- ────────────────────────  FOOTER  ─────────────────────────────── -->
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Aayush7352&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
+
+<br/>
+
+<sub><i>Built with ⚡ engineering discipline — not just markdown.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
