@@ -28,6 +28,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
+          MAX_REPOS: 200
 
       - name: Publish to output branch (preserving snake SVGs)
         run: |

@@ -491,9 +491,9 @@ Full-stack event management platform with real-time registration workflows.
 
 <!-- 3D Contribution Graph (requires .github/workflows/profile-3d.yml) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-night-view.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-gitblock.svg"/>
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-gitblock.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-signature-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-signature-light.svg"/>
+  <img alt="3D contribution graph — signature palette" src="https://raw.githubusercontent.com/Aayush7352/Aayush7352/output/profile-signature-light.svg" width="95%"/>
 </picture>
 
 <br/><br/>
