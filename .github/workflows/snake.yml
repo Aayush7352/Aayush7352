@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -16,12 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
+            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
